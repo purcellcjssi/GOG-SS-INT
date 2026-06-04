@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\bcp.exe" [DBSosxp].[dbo].[piq_storedproc]  in C:\SSFAWS2\DBMS\ghrgog\Data\bcp0007.bcp -e C:\SSFAWS2\DBMS\ghrgog\Log\log007.txt -U sa -P FCloclT1 -S SSSERVER\GRENADA -c

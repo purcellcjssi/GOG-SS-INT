@@ -1,0 +1,16 @@
+u002+*	gsp_sel_employee_events+*	T+*	hrpn+*	hpn+*	This table contains interface info.+*	N+*	0  +*	0  +!
+u003+*	gog_pay_report_extract+*	T+*	osxp+*	psr+*	This table contains the extracted data for pay report.+*	N+*	0  +*	0  +!
+u004+*	gog_pay_calc_report_extract+*	T+*	osxp+*	psr+*	This table contains the extracted data for pay calculation report.+*	N+*	0  +*	0  +!
+u005+*	gog_direct_debit_list_rpt_ext+*	T+*	osxp+*	psr+*	This table contains the extracted data for direct debit listing report.+*	N+*	0  +*	0  +!
+u006+*	gog_def_deduc_rpt_pay_element+*	T+*	hrpn+*	hpn+*	This table contains the default pay element for deduction report.+*	N+*	0  +*	0  +!
+u007+*	gog_deduction_rpt_ext+*	T+*	osxp+*	psr+*	This table contains the Grenada Deduction Report.+*	N+*	0  +*	0  +!
+u008+*	gog_deduct_income_tax_rpt_ext+*	T+*	osxp+*	psr+*	This table contains the deduction income_tax report.+*	N+*	0  +*	0  +!
+u009+*	gog_nis_report_ext+*	T+*	osxp+*	psr+*	This table contains the nis report.+*	N+*	0  +*	0  +!
+u010+*	gog_pay_calc_acting_allow_ext+*	T+*	osxp+*	psr+*	This table contains the Grenada pay calcualtion acting allowances Report.+*	N+*	0  +*	0  +!
+u011+*	gog_pay_acting_allow_ext+*	T+*	osxp+*	psr+*	This table contains the Grenada Pay Acting Allowance Extract+*	N+*	0  +*	0  +!
+u012+*	gog_medical_plan_teachers+*	T+*	osxp+*	psr+*	This table contains the Grenada Medical Plan Teachers+*	N+*	0  +*	0  +!
+u013+*	gog_pay_summary_ext+*	T+*	osxp+*	psr+*	This table contains the Grenada Pay Summary+*	N+*	0  +*	0  +!
+u014+*	gog_payroll_cheque_list_ext+*	T+*	osxp+*	psr+*	This table contains the Grenada Payroll Cheque Listing+*	N+*	0  +*	0  +!
+u015+*	gog_emp_med_plan_pwu_rpt_ext+*	T+*	osxp+*	psr+*	This table contains the Grenada Employee Medical Plan PWU+*	N+*	0  +*	0  +!
+u016+*	gsp_car_cleanup_tbl+*	T+*	glep+*	fgl+*	This table contains interface info.+*	N+*	0  +*	0  +!
+u017+*	cashiering_input_interface+*	T+*	glep+*	fgl+*	This table contains the extracted data for cashiering application.+*	N+*	0  +*	0  +!

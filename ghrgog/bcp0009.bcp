@@ -1,0 +1,19 @@
+AUDITBNK                      +*	 +*	 +*	AUDITBNK                      +*	Run Bank Audit Report.                  +*	 +*	0    +!
+AUDITBNK                      +*	EN+*	 +*	AUDITBNK                      +*	Run Bank Audit Report.                  +*	 +*	0    +!
+AUDITRPT                      +*	 +*	 +*	AUDITRPT                      +*	Run Audit Report.                       +*	 +*	8    +!
+AUDITRPT                      +*	EN+*	 +*	AUDITRPT                      +*	Run Audit Report.                       +*	 +*	8    +!
+DOWNLOAD                      +*	 +*	 +*	DOWNLOAD                      +*	Download Interface File                 +*	 +*	0    +!
+DOWNLOAD                      +*	EN+*	 +*	DOWNLOAD                      +*	Download Interface File                 +*	 +*	0    +!
+EVENT                         +*	 +*	 +*	EVENT                         +*	If File exists, generate Event          +*	 +*	0    +!
+EVENT                         +*	EN+*	 +*	EVENT                         +*	If File exists, generate Event          +*	 +*	0    +!
+EVENT2                        +*	EN+*	 +*	EVENT2                        +*	If File exists, generate Event          +*	 +*	0    +!
+INTEBANK                      +*	 +*	 +*	INTEBANK                      +*	Download Bank Interface File            +*	 +*	0    +!
+INTEBANK                      +*	EN+*	 +*	INTEBANK                      +*	Download Bank Interface File            +*	 +*	0    +!
+INTERFACE                     +*	 +*	 +*	INTERFACE                     +*	Download Interface File                 +*	 +*	1    +!
+INTERFACE                     +*	EN+*	 +*	INTERFACE                     +*	Download Interface File                 +*	 +*	1    +!
+SENDFILE                      +*	 +*	 +*	SENDFILE                      +*	Send Files to Global HR                 +*	 +*	0    +!
+SENDFILE                      +*	EN+*	 +*	SENDFILE                      +*	Send Files to Global HR                 +*	 +*	0    +!
+UPDBANK                       +*	 +*	 +*	UPDBANK                       +*	Upload Bank Global HR File              +*	 +*	0    +!
+UPDBANK                       +*	EN+*	 +*	UPDBANK                       +*	Upload Bank Global HR File              +*	 +*	0    +!
+UPLOAD                        +*	 +*	 +*	UPLOAD                        +*	Upload Global HR File                   +*	 +*	0    +!
+UPLOAD                        +*	EN+*	 +*	UPLOAD                        +*	Upload Global HR File                   +*	 +*	1    +!

@@ -1,0 +1,10 @@
+AUDITBNK                      +*	C:\FTP_DATA\EXEPRD\Batch\AUDITBANK.BAT+*	 +*	 +*	0                             +*	DBS                           +*	PUBLIC                        +*	0    +!
+AUDITRPT                      +*	C:\FTP_DATA\EXEPRD\Batch\AUDITRPT.BAT+*	 +*	 +*	0                             +*	DBS                           +*	PUBLIC                        +*	8    +!
+DOWNLOAD                      +*	C:\FTP_DATA\EXEPRD\CSHCMInterface\Interface.bat+*	 +*	 +*	0                             +*	DBS                           +*	PUBLIC                        +*	0    +!
+EVENT                         +*	C:\FTP_DATA\EXEPRD\Batch\EVENT.bat+*	 +*	 +*	0                             +*	JGROSS                        +*	PUBLIC                        +*	0    +!
+EVENT2                        +*	C:\FTP_DATA\EXEPRD\Batch\EVENT2.bat+*	 +*	 +*	0                             +*	JGROSS                        +*	PUBLIC                        +*	0    +!
+INTEBANK                      +*	C:\FTP_DATA\EXEPRD\Batch\INTEBANK.BAT+*	 +*	 +*	0                             +*	DBS                           +*	PUBLIC                        +*	0    +!
+INTERFACE                     +*	C:\FTP_DATA\EXEPRD\Batch\INTERFACE.BAT+*	 +*	 +*	0                             +*	DBS                           +*	PUBLIC                        +*	1    +!
+SENDFILE                      +*	C:\FTP_DATA\EXEPRD\Batch\SENDFILE.bat+*	 +*	 +*	0                             +*	JGROSS                        +*	PUBLIC                        +*	0    +!
+UPDBANK                       +*	C:\FTP_DATA\EXEPRD\BATCH\UPDBANK.bat+*	 +*	 +*	0                             +*	DBS                           +*	PUBLIC                        +*	0    +!
+UPLOAD                        +*	C:\FTP_DATA\EXEPRD\BATCH\UPLOAD.bat+*	 +*	 +*	0                             +*	JGROSS                        +*	PUBLIC                        +*	1    +!

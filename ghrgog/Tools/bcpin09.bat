@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\bcp.exe" [DBSosxp].[dbo].[psc_program_alias_version]  in C:\SSFAWS2\DBMS\ghrgog\Data\bcp0009.bcp -e C:\SSFAWS2\DBMS\ghrgog\Log\log009.txt -U sa -P FCloclT1 -S SSSERVER\GRENADA -c
