@@ -1,2 +1,2 @@
 # GOG-SS-INT
-Grenada Infor HCM Cloud Suite to SmartStream Payroll Interfac
+Grenada Infor HCM Cloud Suite to SmartStream Payroll Interface
